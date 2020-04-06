@@ -1,7 +1,7 @@
  {"success":true,"message":"","radios":
 [
 
-{"number":"1","name":"Hala FM 102.7 FM","description":"","logo":"https://raw.githubusercontent.com/tzafino/om/master/Hala.png","streamUrl":"http://s8.viastreaming.net:7850/;","yourmuzeId":"0","state":"1"},
+{"number":"1","name":"Hala FM 102.7 FM","description":"","logo":"https://raw.githubusercontent.com/tzafino/om/master/Hala.png","streamUrl":"https://playerservices.streamtheworld.com/api/livestream-redirect/977_HITSAAC_SC","yourmuzeId":"0","state":"1"},
  
   
   
@@ -10,7 +10,7 @@
   
   
    
-{"number":"170","name":"اذكار المساء","description":"","logo":"https://raw.githubusercontent.com/tzafino/eg/master/yyy.jpg","streamUrl":"http://radio2.tarat.com:9302/;","yourmuzeId":"0","state":"1"}
+{"number":"170","name":"اذكار المساء","description":"","logo":"https://raw.githubusercontent.com/tzafino/eg/master/yyy.jpg","streamUrl":"https://s18.myradiostream.com/9676/listen.mp3","yourmuzeId":"0","state":"1"}
   
   
   
