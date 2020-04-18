@@ -13,7 +13,7 @@
 {"number":"10","name":"Classic Country 1630","description":"","logo":"/Classic Country 1630.png","streamUrl":"http://198.105.216.204:8194/stream","yourmuzeId":"0","state":"1"},
 {"number":"11","name":"American Road Radio","description":"","logo":"/American Road Radio.png","streamUrl":"http://s4.radioboss.fm:8101/stream","yourmuzeId":"0","state":"1"},
 {"number":"12","name":"That 70's Channel","description":"","logo":"/That 70's Channel.png","streamUrl":"http://los.cdnstream.com/1101_128?cb=553828.mp3","yourmuzeId":"0","state":"1"},
-{"number":"13","name":"USA Dance Radio","description":"","logo":"/USA Dance Radio.png","streamUrl":"https://onlineradiobox.com/json/us/usadance/play?platform=web","yourmuzeId":"0","state":"2"},
+{"number":"13","name":"USA Dance Radio","description":"","logo":"/USA Dance Radio.png","streamUrl":"https://ice5.securenetsystems.net/USADANCE","yourmuzeId":"0","state":"1"},
 {"number":"14","name":"Beatles Radio","description":"","logo":"/Beatles Radio.png","streamUrl":"http://www.beatlesradio.com:8000/steam/2","yourmuzeId":"0","state":"1"},
 {"number":"15","name":"Streetz 94.5","description":"","logo":"/Streetz 94.5.png","streamUrl":"http://104.6.216.93:8000/Streetz","yourmuzeId":"0","state":"1"},
 {"number":"16","name":"NPR Radio","description":"","logo":"/NPR Radio.png","streamUrl":"https://npr-ice.streamguys1.com/live.mp3","yourmuzeId":"0","state":"1"},
