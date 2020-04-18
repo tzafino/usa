@@ -23,7 +23,7 @@
 {"number":"20","name":"95.5 Smooth Jazz","description":"","logo":"/95.5 Smooth Jazz.png","streamUrl":"http://144.217.158.59:5176/;stream.nsv","yourmuzeId":"0","state":"1"},
 {"number":"21","name":"Mega 96.3","description":"","logo":"/Mega 96.3.png","streamUrl":"https://live.wostreaming.net/direct/sbsystems-kxolfmaac-ib-64?source=onlineradiobox","yourmuzeId":"0","state":"1"},
 {"number":"22","name":"Shekinah Radio","description":"","logo":"/Shekinah Radio.png","streamUrl":"https://onlineradiobox.com/json/us/shekinahradio/play?platform=web","yourmuzeId":"0","state":"2"},
-{"number":"23","name":"Soft Classic Rock","description":"","logo":"/Soft Classic Rock.png","streamUrl":"https://onlineradiobox.com/json/us/softclassicrock/play?platform=web","yourmuzeId":"0","state":"2"},
+{"number":"23","name":"Soft Classic Rock","description":"","logo":"/Soft Classic Rock.png","streamUrl":"http://64.71.133.122:8000/;","yourmuzeId":"0","state":"1"},
 {"number":"24","name":"181.FM The Buzz (Alt. Rock)","description":"","logo":"/181.FM The Buzz (Alt. Rock).png","streamUrl":"https://listen.181fm.com/181-buzz_128k.mp3","yourmuzeId":"0","state":"1"},
 {"number":"25","name":"Chilltrax","description":"","logo":"/Chilltrax.png","streamUrl":"https://onlineradiobox.com/json/us/chilltrax/play?platform=web","yourmuzeId":"0","state":"2"},
 {"number":"26","name":"KNAC.COM","description":"","logo":"/KNAC.COM","streamUrl":"http://s5.voscast.com:7346/;","yourmuzeId":"0","state":"1"},
