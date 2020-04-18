@@ -6,7 +6,7 @@
 {"number":"3","name":"FOX News Talk","description":"","logo":"/FOX News Talk.png","streamUrl":"https://streaming-ent.shoutcast.com/foxnews","yourmuzeId":"0","state":"1"},
 {"number":"4","name":"Smooth Jazz Mix New York","description":"","logo":"/Smooth Jazz Mix New York.png","streamUrl":"https://hestia2.cdnstream.com/1078_128?cb=696226.mp3","yourmuzeId":"0","state":"1"},
 {"number":"5","name":"San Francisco's 70's HITS!","description":"","logo":"/San Francisco's 70's HITS!.png","streamUrl":"http://s6.voscast.com:10922/;stream.nsv","yourmuzeId":"0","state":"1"},
-{"number":"6","name":"KFI AM 640","description":"","logo":"/KFI AM 640.png","streamUrl":"https://onlineradiobox.com/json/us/kfiam/play?platform=web","yourmuzeId":"0","state":"2"},
+{"number":"6","name":"KFI AM 640","description":"","logo":"/KFI AM 640.png","streamUrl":"https://radiostationusa.fm/apii.php?url=https://c8icy.prod.playlists.ihrhls.com/177_icy","yourmuzeId":"0","state":"2"},
 {"number":"7","name":"100hitz - Hot Hitz","description":"","logo":"/100hitz - Hot Hitz.png","streamUrl":"http://pureplay.cdnstream1.com/6027_128.mp3","yourmuzeId":"0","state":"1"},  
 {"number":"8","name":"Greatest Hits Radio","description":"","logo":"/Greatest Hits Radio.png","streamUrl":"https://onlineradiobox.com/json/us/greatesthits/play?platform=web","yourmuzeId":"0","state":"2"},  
 {"number":"9","name":"Side Street Radio","description":"","logo":"/Side Street Radio.png","streamUrl":"http://www.ophanim.net:9780/;stream.nsv","yourmuzeId":"0","state":"1"},
