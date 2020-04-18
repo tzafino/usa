@@ -25,7 +25,7 @@
 {"number":"22","name":"Shekinah Radio","description":"","logo":"/Shekinah Radio.png","streamUrl":"https://onlineradiobox.com/json/us/shekinahradio/play?platform=web","yourmuzeId":"0","state":"2"},
 {"number":"23","name":"Soft Classic Rock","description":"","logo":"/Soft Classic Rock.png","streamUrl":"http://64.71.133.122:8000/;","yourmuzeId":"0","state":"1"},
 {"number":"24","name":"181.FM The Buzz (Alt. Rock)","description":"","logo":"/181.FM The Buzz (Alt. Rock).png","streamUrl":"https://listen.181fm.com/181-buzz_128k.mp3","yourmuzeId":"0","state":"1"},
-{"number":"25","name":"Chilltrax","description":"","logo":"/Chilltrax.png","streamUrl":"https://onlineradiobox.com/json/us/chilltrax/play?platform=web","yourmuzeId":"0","state":"2"},
+{"number":"25","name":"Chilltrax","description":"","logo":"/Chilltrax.png","streamUrl":"http://station.chilltrax.com:80/;","yourmuzeId":"0","state":"1"},
 {"number":"26","name":"KNAC.COM","description":"","logo":"/KNAC.COM","streamUrl":"http://s5.voscast.com:7346/;","yourmuzeId":"0","state":"1"},
 {"number":"27","name":"4U Classic Rock","description":"","logo":"/4U Classic Rock.png","streamUrl":"https://str4uice.streamakaci.com/4uclassicrock.mp3","yourmuzeId":"0","state":"1"},
 {"number":"28","name":"Bloomberg Radio","description":"","logo":"/Bloomberg Radio.png","streamUrl":"https://18843.live.streamtheworld.com/WBBRAMAAC48/HLS/playlist.m3u8","yourmuzeId":"0","state":"1"}, 
