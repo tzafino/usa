@@ -61,7 +61,7 @@
 {"number":"54","name":"My Big Oldies","description":"","logo":"/My Big Oldies.png","streamUrl":"http://162.251.160.115:8066/;","yourmuzeId":"0","state":"1"},
 {"number":"55","name":"99.7 NOW","description":"","logo":"/99.7 NOW.png","streamUrl":"https://playerservices.streamtheworld.com/api/livestream-redirect/KMVQFMAAC_SC","yourmuzeId":"0","state":"2"},
 {"number":"56","name":"Voice of America Global","description":"","logo":"/Voice of America Global.png","streamUrl":"https://n06.radiojar.com/t2n88q0st5quv?rj-ttl=5&rj-tok=AAABcY9rJUsA8k309jyYaHY3iA","yourmuzeId":"0","state":"1"},
-{"number":"57","name":"WILD ROCK RADIO","description":"","logo":"/WILD ROCK RADIO.png","streamUrl":"https://onlineradiobox.com/json/us/wildrockradio/play?platform=web","yourmuzeId":"0","state":"2"},
+{"number":"57","name":"WILD ROCK RADIO","description":"","logo":"/WILD ROCK RADIO.png","streamUrl":"http://209.133.216.3:7100/;","yourmuzeId":"0","state":"1"},
 {"number":"58","name":"Deeper Shades of House","description":"","logo":"/Deeper Shades of House.png","streamUrl":"http://andromeda.housejunkie.ca:8000/radio.mp3","yourmuzeId":"0","state":"1"},
 {"number":"59","name":"WBAP News Talk 820 AM","description":"","logo":"/WBAP News Talk 820 AM.png","streamUrl":"https://playerservices.streamtheworld.com/api/livestream-redirect/WBAPAMAAC.aac","yourmuzeId":"0","state":"1"},
 {"number":"60","name":"CNN en Español","description":"","logo":"/CNN en Español.png","streamUrl":"http://s5.vvcfd6/;","yourmuzeId":"0","state":"2"},
