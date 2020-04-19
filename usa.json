@@ -52,7 +52,7 @@
 {"number":"45","name":"Smooth Jazz CD101.9","description":"","logo":"/Smooth Jazz CD101.9.png","streamUrl":"https://vip2.fastcast4u.com/proxy/sjcd109?mp=/1","yourmuzeId":"0","state":"1"},
 {"number":"46","name":"Megaton Cafe Radio","description":"","logo":"/Megaton Cafe Radio.png","streamUrl":"http://us2.internet-radio.com:8443/;stream","yourmuzeId":"0","state":"1"},
 {"number":"47","name":"Reggae141","description":"","logo":"/Reggae141.png","streamUrl":"https://hestia2.cdnstream.com/1301_128","yourmuzeId":"0","state":"1"},
-{"number":"48","name":"SmoothJazz.NYC","description":"","logo":"/SmoothJazz.NYC.png","streamUrl":"http://airspectrum.cdnstream1.com:8078/1614_192","yourmuzeId":"0","state":"1"},
+{"number":"48","name":"SmoothJazz.NYC","description":"","logo":"/SmoothJazz.NYC.pn","streamUrl":"http://airspectrum.cdnstream1.com:8078/1614_192","yourmuzeId":"0","state":"1"},
 {"number":"49","name":"K-Rock - WKLL 94.9 FM","description":"","logo":"/K-Rock - WKLL 94.9 FM.png","streamUrl":"https://live.wostreaming.net/manifest/galaxy-wkllfmaac-hlsc1.m3u8","yourmuzeId":"0","state":"1"},
 {"number":"50","name":"Hot Talk KSFO 560 AM","description":"","logo":"/Hot Talk KSFO 560 AM.png","streamUrl":"https://playerservices.streamtheworld.com/api/livestream-redirect/KSFOAMAAC.aac","yourmuzeId":"0","state":"1"},
 {"number":"51","name":"Classic Hits 104.1","description":"","logo":"/Classic Hits 104.1.png","streamUrl":"https://playerservices.streamtheworld.com/api/livestream-redirect/WHTTFMAAC.aac","yourmuzeId":"0","state":"1"},
@@ -61,10 +61,10 @@
 {"number":"54","name":"My Big Oldies","description":"","logo":"/My Big Oldies.png","streamUrl":"http://162.251.160.115:8066/;","yourmuzeId":"0","state":"1"},
 {"number":"55","name":"99.7 NOW","description":"","logo":"/99.7 NOW.png","streamUrl":"https://playerservices.streamtheworld.com/api/livestream-redirect/KMVQFMAAC_SC","yourmuzeId":"0","state":"2"},
 {"number":"56","name":"Voice of America Global","description":"","logo":"/Voice of America Global.png","streamUrl":"https://n06.radiojar.com/t2n88q0st5quv?rj-ttl=5&rj-tok=AAABcY9rJUsA8k309jyYaHY3iA","yourmuzeId":"0","state":"1"},
-{"number":"57","name":"WILD ROCK RADIO","description":"","logo":"/WILD ROCK RADIO.png","streamUrl":"https://onlineradiobox.com/json/us/wildrockradio/play?platform=web","yourmuzeId":"0","state":"1"},
+{"number":"57","name":"WILD ROCK RADIO","description":"","logo":"/WILD ROCK RADIO.png","streamUrl":"https://onlineradiobox.com/json/us/wildrockradio/play?platform=web","yourmuzeId":"0","state":"2"},
 {"number":"58","name":"Deeper Shades of House","description":"","logo":"/Deeper Shades of House.png","streamUrl":"http://andromeda.housejunkie.ca:8000/radio.mp3","yourmuzeId":"0","state":"1"},
 {"number":"59","name":"WBAP News Talk 820 AM","description":"","logo":"/WBAP News Talk 820 AM.png","streamUrl":"https://playerservices.streamtheworld.com/api/livestream-redirect/WBAPAMAAC.aac","yourmuzeId":"0","state":"1"},
-{"number":"60","name":"CNN en Español","description":"","logo":"/CNN en Español.png","streamUrl":"http://s5.voscast.com:7346/;","yourmuzeId":"0","state":"2"},
+{"number":"60","name":"CNN en Español","description":"","logo":"/CNN en Español.png","streamUrl":"http://s5.vvcfd6/;","yourmuzeId":"0","state":"2"},
  
  
  
@@ -73,7 +73,7 @@
 {"number":"61","name":"Houston Blues Radio","description":"","logo":"/Houston Blues Radio.png","streamUrl":"https://edge1.peta.live365.net/b76353_128mp3","yourmuzeId":"0","state":"1"},
 {"number":"62","name":"xxxRock.fm","description":"","logo":"/xxxRock.fm.png","streamUrl":"http://162.251.160.13456","yourmuzeId":"0","state":"2"},
 {"number":"63","name":"101.5 K-Rock","description":"","logo":"/101.5 K-Rock.png","streamUrl":"https://crystalout.surfernetwork.com:8001/KMKF_MP3","yourmuzeId":"0","state":"1"},
-{"number":"64","name":"Power 106","description":"","logo":"/Power 106.png","streamUrl":"http://162.251.160.nb:8066/;","yourmuzeId":"0","state":"1"},
+{"number":"64","name":"Power 106","description":"","logo":"/Power 106.png","streamUrl":"http://162.251.160.nb:8066/;","yourmuzeId":"0","state":"2"},
 {"number":"65","name":"Deep House Lounge","description":"","logo":"/Deep House Lounge.png","streamUrl":"http://198.15.94.34:8024/stream","yourmuzeId":"0","state":"1"},
 {"number":"66","name":"Viejitas Pero Bonitas Radio","description":"","logo":"/Viejitas Pero Bonitas Radio.png","streamUrl":"https://14833.live.streamtheworld.com/SAM01AAC57_SC","yourmuzeId":"0","state":"1"},
 {"number":"67","name":"Magic Oldies Florida","description":"","logo":"/Magic Oldies Florida.png","streamUrl":"https://vip2.fastcast4u.com/proxy/magicfla?mp=/1","yourmuzeId":"0","state":"1"},
