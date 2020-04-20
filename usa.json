@@ -131,7 +131,7 @@
 {"number":"116","name":"TopShelf Oldies","description":"","logo":"/TopShelf Oldies.png","streamUrl":"http://144.217.158.219:8002/stream?cb=12990.mp3","yourmuzeId":"0","state":"1"},
 {"number":"117","name":"Chicago Public Radio - WBEZ 91.5 FM","description":"","logo":"/Chicago Public Radio - WBEZ 91.5 FM.png","streamUrl":"https://stream.wbez.org/wbez128.mp3","yourmuzeId":"0","state":"1"},
 {"number":"118","name":"Big B Radio - KPOP","description":"","logo":"/Big B Radio - KPOP.png","streamUrl":"http://64.71.79.181:8040/;stream.nsv","yourmuzeId":"0","state":"1"},
-{"number":"119","name":"WLS-FM","description":"","logo":"/WLS-FM.png","streamUrl":"https://onlineradiobox.com/json/us/wlsfm/play?platform=web","yourmuzeId":"0","state":"1"},
+{"number":"119","name":"WLS-FM","description":"","logo":"/WLS-FM.png","streamUrl":"http://20603.live.streamtheworld.com/WLSFMAAC.aac?token=37722665b364d4cdaa2f79fb7cfacf77%2F829bcdf9","yourmuzeId":"0","state":"1"},
 {"number":"120","name":"Electric 94.9 FM","description":"","logo":"/Electric 94.9 FM.png","streamUrl":"https://playerservices.streamtheworld.com/api/livestream-redirect/WAEZFMAAC.aac","yourmuzeId":"0","state":"1"},
 {"number":"121","name":"Miami Global Radio","description":"","logo":"/Miami Global Radio.png","streamUrl":"http://live.miamiglobalradio.com:8100/;stream.nsv","yourmuzeId":"0","state":"1"},
  
