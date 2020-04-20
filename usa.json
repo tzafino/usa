@@ -133,7 +133,7 @@
 {"number":"118","name":"Big B Radio - KPOP","description":"","logo":"/FOX News Talk.png","streamUrl":"https://onlineradiobox.com/json/us/bigbradiokpop/play?platform=web","yourmuzeId":"0","state":"1"},
 {"number":"119","name":"WLS-FM","description":"","logo":"/FOX News Talk.png","streamUrl":"https://onlineradiobox.com/json/us/wlsfm/play?platform=web","yourmuzeId":"0","state":"1"},
 {"number":"120","name":"Electric 94.9 FM","description":"","logo":"/FOX News Talk.png","streamUrl":"https://playerservices.streamtheworld.com/api/livestream-redirect/WAEZFMAAC.aac","yourmuzeId":"0","state":"1"},
-{"number":"121","name":"Miami Global Radio","description":"","logo":"/FOX News Talk.png","streamUrl":"http://live.miamiglobalradio.com:8100/;stream.nsv","yourmuzeId":"0","state":"1"},
+{"number":"121","name":"Miami Global Radio","description":"","logo":"/Miami Global Radio.png","streamUrl":"http://live.miamiglobalradio.com:8100/;stream.nsv","yourmuzeId":"0","state":"1"},
  
  
  
