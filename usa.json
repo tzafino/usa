@@ -103,10 +103,10 @@
  
  
  
-{"number":"91","name":"Big Blue Swing","description":"","logo":"/FOX News Talk.png","streamUrl":"https://onlineradiobox.com/json/us/bigblueswing/play?platform=web","yourmuzeId":"0","state":"1"},
-{"number":"92","name":"011.FM - The Office Mix","description":"","logo":"/FOX News Talk.png","streamUrl":"http://listen.011fm.com:8000/stream01","yourmuzeId":"0","state":"1"},
-{"number":"93","name":"Easy Hits South Florida","description":"","logo":"/FOX News Talk.png","streamUrl":"https://onlineradiobox.com/json/us/easyhitssouthflorida/play?platform=web","yourmuzeId":"0","state":"1"},
-{"number":"94","name":"96.9 The Legend","description":"","logo":"/FOX News Talk.png","streamUrl":"https://live.wostreaming.net/direct/gulfsouth-wdjrfmaac-ibc4?source=onlineradiobox","yourmuzeId":"0","state":"1"},
+{"number":"91","name":"Big Blue Swing","description":"","logo":"/Big Blue Swing.png","streamUrl":"https://onlineradiobox.com/json/us/bigblueswing/play?platform=web","yourmuzeId":"0","state":"1"},
+{"number":"92","name":"011.FM - The Office Mix","description":"","logo":"/011.FM - The Office Mix.png","streamUrl":"http://listen.011fm.com:8000/stream01","yourmuzeId":"0","state":"1"},
+{"number":"93","name":"Easy Hits South Florida","description":"","logo":"/Easy Hits South Florida.png","streamUrl":"https://onlineradiobox.com/json/us/easyhitssouthflorida/play?platform=web","yourmuzeId":"0","state":"1"},
+{"number":"94","name":"96.9 The Legend","description":"","logo":"/96.9 The Legend.png","streamUrl":"https://live.wostreaming.net/direct/gulfsouth-wdjrfmaac-ibc4?source=onlineradiobox","yourmuzeId":"0","state":"1"},
 {"number":"95","name":"Party 105.3 FM","description":"","logo":"/Party 105.3 FM.png","streamUrl":"https://playerservices.streamtheworld.com/api/livestream-redirect/WPTYFMAAC.aac","yourmuzeId":"0","state":"1"},
 {"number":"96","name":"Cattle Country 94.3 FM","description":"","logo":"/Cattle Country 94.3 FM.png","streamUrl":"http://stream.amellus.com:8000/KDDL.mp3","yourmuzeId":"0","state":"1"},
 {"number":"97","name":"Public Radio International","description":"","logo":"/Public Radio International.png","streamUrl":"http://50.31.167.212/pri1","yourmuzeId":"0","state":"1"},
