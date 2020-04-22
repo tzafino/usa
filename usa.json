@@ -147,7 +147,7 @@
 {"number":"130","name":"Classic Oldies Jukebox","description":"","logo":"/Classic Oldies Jukebox.png","streamUrl":"http://hestia.cdnstream.com/1563_96","yourmuzeId":"0","state":"1"},
 {"number":"131","name":"Defjay","description":"","logo":"/Defjay.png","streamUrl":"http://icepool.silvacast.com/DEFJAY.mp3","yourmuzeId":"0","state":"1"},
 {"number":"132","name":"Science360 Radio","description":"","logo":"/Science360 Radio.png","streamUrl":"http://205.234.238.42:4200/live","yourmuzeId":"0","state":"1"},
-{"number":"133","name":"McQsJazz.com","description":"","logo":"/McQsJazz.com.png","streamUrl":"https://onlineradiobox.com/json/us/mcqsjazzcom/play?platform=web","yourmuzeId":"0","state":"1"},
+{"number":"133","name":"McQsJazz.com","description":"","logo":"/McQsJazz.com","streamUrl":"https://onlineradiobox.com/json/us/mcqsjazzcom/play?platform=web","yourmuzeId":"0","state":"1"},
 {"number":"134","name":"USA TODAY","description":"","logo":"/USA TODAY.png","streamUrl":"http://www.bigblueswing.comfd2/;","yourmuzeId":"0","state":"2"},
 {"number":"135","name":"KTSY 89.5 FM","description":"","logo":"/KTSY 89.5 FM.png","streamUrl":"http://ic1.christiannetcast.com/ktsy-fm","yourmuzeId":"0","state":"1"},
 {"number":"136","name":"RadioMaxMusic","description":"","logo":"/RadioMaxMusic.png","streamUrl":"http://142.4.217.133:8035/;","yourmuzeId":"0","state":"1"},
