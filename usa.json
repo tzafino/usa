@@ -151,7 +151,7 @@
 {"number":"134","name":"USA TODAY","description":"","logo":"/USA TODAY.png","streamUrl":"http://www.bigblueswing.comfd2/;","yourmuzeId":"0","state":"2"},
 {"number":"135","name":"KTSY 89.5 FM","description":"","logo":"/KTSY 89.5 FM.png","streamUrl":"http://ic1.christiannetcast.com/ktsy-fm","yourmuzeId":"0","state":"1"},
 {"number":"136","name":"RadioMaxMusic","description":"","logo":"/RadioMaxMusic.png","streamUrl":"http://142.4.217.133:8035/;","yourmuzeId":"0","state":"1"},
-{"number":"137","name":"The Blaze Radio","description":"","logo":"/The Blaze Radio.png","streamUrl":"https://playerservices.streamtheworld.com/api/livestream-redirect/BLZE_1AAC.aac","yourmuzeId":"0","state":"2"},
+{"number":"137","name":"The Blaze Radio","description":"","logo":"/The Blaze Radio.png","streamUrl":"https://playerservices.streamtheworld.com/api/livestream-redirect/BLZE_1AAC.aac","yourmuzeId":"0","state":"1"},
 {"number":"138","name":"Classic Country 1520 KXA","description":"","logo":"/Classic Country 1520 KXA.png","streamUrl":"http://www.ophanim.net:9410/;","yourmuzeId":"0","state":"1"},
 {"number":"139","name":"The Disco Paradise","description":"","logo":"/The Disco Paradise.png","streamUrl":"http://144.217.129.213:8398/;stream.nsv","yourmuzeId":"0","state":"1"},
 {"number":"140","name":"Radio Paradise","description":"","logo":"/Radio Paradise.png","streamUrl":"https://stream.radioparadise.com/mp3-192","yourmuzeId":"0","state":"1"},
