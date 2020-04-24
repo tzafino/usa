@@ -21,7 +21,7 @@
 {"number":"18","name":"HardRadio.com - Hard Radio","description":"","logo":"/HardRadio.com - Hard Radio.png","streamUrl":"http://3634.cloudrad.io/stream/1/?extReferer=http%3a%2f%2fwww.hardradio.com%2fplayer.php3&lang=ru-RU%2cru%3bq%3d0.8%2cen-US%3bq%3d0.6%2cen%3bq%3d0.4&ad=radiono5","yourmuzeId":"0","state":"1"},
 {"number":"19","name":"La Mega 97.9","description":"","logo":"/La Mega 97.9.png","streamUrl":"https://live.wostreaming.net/direct/sbsystems-wskqfmaac-imc1?source=onlineradiobox","yourmuzeId":"0","state":"1"},
 {"number":"20","name":"95.5 Smooth Jazz","description":"","logo":"/95.5 Smooth Jazz.png","streamUrl":"http://144.217.158.59:5176/;stream.nsv","yourmuzeId":"0","state":"1"},
-{"number":"21","name":"Mega 96.3","description":"","logo":"/Mega 96.3.png","streamUrl":"https://live.wostreaming.net/direct/sbsystems-kxolfmaac-ib-64?source=onlineradiobox","yourmuzeId":"0","state":"1"},
+{"number":"21","name":"la Mega 96.3 FM(california)","description":"","logo":"/Mega 96.3.png","streamUrl":"https://live.wostreaming.net/direct/sbsystems-kxolfmaac-ib-64?source=onlineradiobox","yourmuzeId":"0","state":"1"},
 {"number":"22","name":"Shekinah Radio","description":"","logo":"/Shekinah Radio.png","streamUrl":"http://142.4.206.137:26284/;","yourmuzeId":"0","state":"1"},
 {"number":"23","name":"Soft Classic Rock","description":"","logo":"/Soft Classic Rock.png","streamUrl":"http://64.71.133.122:8000/;","yourmuzeId":"0","state":"1"},
 {"number":"24","name":"181.FM The Buzz (Alt. Rock)","description":"","logo":"/181.FM The Buzz (Alt. Rock).png","streamUrl":"https://listen.181fm.com/181-buzz_128k.mp3","yourmuzeId":"0","state":"1"},
@@ -199,10 +199,11 @@
 {"number":"179","name":"KCLU - FM 102.3 FM(california)","description":"","logo":"/Razor 94.7.png","streamUrl":"https://kclustream.callutheran.edu:8090/kclump3","yourmuzeId":"0","state":"1"},
 {"number":"180","name":"KSDS- san diego jazz 88.3 fm(california)","description":"","logo":"/Razor 94.7.png","streamUrl":"http://listen.jazz88.org/ksds.mp3","yourmuzeId":"0","state":"1"},
 {"number":"181","name":"Mix 95.1 - KMXI(california)","description":"","logo":"/Razor 94.7.png","streamUrl":"http://ice10.securenetsystems.net/KMXI","yourmuzeId":"0","state":"1"},
-{"number":"182","name":"Razor 94.7","description":"","logo":"/Razor 94.7.png","streamUrl":"https://streaminnbbt.com/foxnews","yourmuzeId":"0","state":"1"},
-{"number":"183","name":"Razor 94.7","description":"","logo":"/Razor 94.7.png","streamUrl":"https://streaminnbbt.com/foxnews","yourmuzeId":"0","state":"1"},
-{"number":"184","name":"Razor 94.7","description":"","logo":"/Razor 94.7.png","streamUrl":"https://streaminnbbt.com/foxnews","yourmuzeId":"0","state":"1"},
-{"number":"185","name":"Razor 94.7","description":"","logo":"/Razor 94.7.png","streamUrl":"https://streaminnbbt.com/foxnews","yourmuzeId":"0","state":"1"},
+{"number":"182","name":"KEST 1450 AM(california)","description":"","logo":"/Razor 94.7.png","streamUrl":"http://radiokest.serverroom.us:6670/;","yourmuzeId":"0","state":"1"},
+{"number":"183","name":"La Kaliente 1370 AM(california)","description":"","logo":"/Razor 94.7.png","streamUrl":"http://s2.voscast.com:10892/;stream1496067053458/1","yourmuzeId":"0","state":"1"},
+{"number":"184","name":"KZSU-stanford 90.1 FM (california)","description":"","logo":"/Razor 94.7.png","streamUrl":"http://171.66.118.110:8080/kzsu-2-128.mp3","yourmuzeId":"0","state":"1"},
+{"number":"185","name":"KUNA La Poderosa 96.7 FM(california)","description":"","logo":"/Razor 94.7.png","streamUrl":"http://ice5.securenetsystems.net/KUNA","yourmuzeId":"0","state":"1"},
+{"number":"186","name":"KLOK La Tricolor 99.5 FM(california)","description":"","logo":"/Razor 94.7.png","streamUrl":"http://14643.live.streamtheworld.com:3690/KLOKFM_SC","yourmuzeId":"0","state":"1"},
  
  
  
