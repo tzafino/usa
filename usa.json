@@ -224,6 +224,11 @@
 {"number":"203","name":"KCEA 89.1 FM(california)","description":"","logo":"/MIX 87.7.png","streamUrl":"http://streaming.rubinbroadcasting.com/kcea","yourmuzeId":"0","state":"1"},
 {"number":"204","name":"KHSU publicFM 90.5 - Arcata(california)","description":"","logo":"/MIX 87.7.png","streamUrl":"http://peace.str3am.com:6650/live","yourmuzeId":"0","state":"1"},
 {"number":"205","name":"KKRN 88.5 FM(california)","description":"","logo":"/MIX 87.7.png","streamUrl":"http://stream-ny.radioparadise.com:8092/;stream.mp3","yourmuzeId":"0","state":"2"},
+{"number":"206","name":"KCVR Super Estrella 98.9 FM(california)","description":"","logo":"/Mix 95.1 - KMXI.jpg","streamUrl":"https://14093.live.streamtheworld.com/KCVRFM_SC","yourmuzeId":"0","state":"1"},
+{"number":"207","name":"KDRT 95.7 FM(california)","description":"","logo":"/Mix 95.1 - KMXI.jpg","streamUrl":"https://kdrt.org:8001/kdrt","yourmuzeId":"0","state":"1"},
+{"number":"208","name":"KWAV 96.9 FM(california)","description":"","logo":"/Mix 95.1 - KMXI.jpg","streamUrl":"http://ice9.securenetsystems.net/KWAV","yourmuzeId":"0","state":"1"},
+{"number":"209","name":"KHTS 1220 AM(california)","description":"","logo":"/Mix 95.1 - KMXI.jpg","streamUrl":"http://ice6.securenetsystems.net/KHTS1220","yourmuzeId":"0","state":"1"},
+{"number":"210","name":"KXPS Team 1010 AM(california)","description":"","logo":"/Mix 95.1 - KMXI.jpg","streamUrl":"http://ice6.securenetsystems.net:80/KXPS","yourmuzeId":"0","state":"1"},
  
  
  
