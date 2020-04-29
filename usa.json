@@ -215,7 +215,7 @@
 {"number":"194","name":"Inside Jazz - Contemporary(california)","description":"","logo":"/Inside Jazz - Contemporary.jpg","streamUrl":"http://fs-insidejazz.fast-serv.com:8282/;stream.tk82","yourmuzeId":"0","state":"1"},
 {"number":"195","name":"KMIX - La Tricolor 100.9 FM(california)","description":"","logo":"/KMIX - La Tricolor 100.9 FM.png","streamUrl":"http://18813.live.streamtheworld.com/KMIXFMAAC.aac","yourmuzeId":"0","state":"1"},
 {"number":"196","name":"kpcc socal public radio(california)","description":"","logo":"/kpcc socal public radio.png","streamUrl":"https://18683.live.streamtheworld.com/KPCC_FM.mp3","yourmuzeId":"0","state":"1"},
-{"number":"197","name":"KCSB-91.9 fm(california)","description":"","logo":"/KCSB-91.9 fm.png","streamUrl":"https://streaming-ent.snbc.com/foxnews","yourmuzeId":"0","state":"1"},
+{"number":"197","name":"KCSB-91.9 fm(california)","description":"","logo":"/KCSB-91.9 fm.png","streamUrl":"http://live.kcsb.org/KCSB_128","yourmuzeId":"0","state":"1"},
 {"number":"198","name":"KCSM Jazz 91.1 FM(california)","description":"","logo":"/KCSM Jazz 91.1 FM.jpg","streamUrl":"http://ice5.securenetsystems.net/KCSM","yourmuzeId":"0","state":"1"},
 {"number":"199","name":"The Vibe 103.3 FM(california)","description":"","logo":"/The Vibe 103.3 FM.png","streamUrl":"https://18233.live.streamtheworld.com/KVYBFM_SC","yourmuzeId":"0","state":"1"},
 {"number":"200","name":"KRLA The Answer 870 AM(california)","description":"","logo":"/KRLA The Answer 870 AM.png","streamUrl":"https://18553.live.streamtheworld.com/KRLAAMAAC.aac","yourmuzeId":"0","state":"1"},
@@ -223,12 +223,15 @@
 {"number":"202","name":"KAXL - Life FM 88.3(california)","description":"","logo":"/KAXL - Life FM 88.3.jpg","streamUrl":"http://ic1.christiannetcast.com/kaxl-fm","yourmuzeId":"0","state":"1"},
 {"number":"203","name":"KCEA 89.1 FM(california)","description":"","logo":"/KCEA 89.1 FM.png","streamUrl":"http://streaming.rubinbroadcasting.com/kcea","yourmuzeId":"0","state":"1"},
 {"number":"204","name":"KHSU public FM 90.5 - Arcata(california)","description":"","logo":"/KHSU publicFM 90.5 - Arcata.jpg","streamUrl":"http://peace.str3am.com:6650/live","yourmuzeId":"0","state":"1"},
-{"number":"205","name":"KKRN 88.5 FM(california)","description":"","logo":"/KKRN 88.5 FM.jpg","streamUrl":"http://stream-ny.radioparadise.com:8092/;stream.mp3","yourmuzeId":"0","state":"2"},
+{"number":"205","name":"KKRN 88.5 FM(california)","description":"","logo":"/KKRN 88.5 FM.jpg","streamUrl":"http://stream-ny.radioparadise.com:8092/;stream.mp3","yourmuzeId":"0","state":"1"},
 {"number":"206","name":"KCVR Super Estrella 98.9 FM(california)","description":"","logo":"/KCVR Super Estrella 98.9 FM.jpg","streamUrl":"https://14093.live.streamtheworld.com/KCVRFM_SC","yourmuzeId":"0","state":"1"},
 {"number":"207","name":"KDRT 95.7 FM(california)","description":"","logo":"/KDRT 95.7 FM.jpg","streamUrl":"https://kdrt.org:8001/kdrt","yourmuzeId":"0","state":"1"},
 {"number":"208","name":"KWAV 96.9 FM(california)","description":"","logo":"/KWAV 96.9 FM.jpg","streamUrl":"http://ice9.securenetsystems.net/KWAV","yourmuzeId":"0","state":"1"},
 {"number":"209","name":"KHTS 1220 AM(california)","description":"","logo":"/KHTS 1220 AM.jpg","streamUrl":"http://ice6.securenetsystems.net/KHTS1220","yourmuzeId":"0","state":"1"},
 {"number":"210","name":"KXPS Team 1010 AM(california)","description":"","logo":"/KXPS Team 1010 AM.jpg","streamUrl":"http://ice6.securenetsystems.net:80/KXPS","yourmuzeId":"0","state":"1"},
+
+ 
+{"number":"211","name":"KCSB-91.9 fm(california)","description":"","logo":"/KCSB-91.9 fm.png","streamUrl":"https://streaming-ent.snbc.com/foxnews","yourmuzeId":"0","state":"0"},
  
  
  
